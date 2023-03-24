@@ -1,0 +1,74 @@
+body{
+  background-color: aquamarine;  
+  margin: 0;
+}
+.titulo{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+}
+.logo{
+    margin-left: 500px;
+  
+    margin-top: 50px;
+}
+.botaoinicio{
+    margin-left: 550px;
+    
+}
+.seclog{
+    color: white ;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 200px;
+    margin-top: 200px;
+    text-align: center;
+}
+.botaoenviar{
+ margin-left: 150px;
+ background-color: blue;
+}
+.titulolog{
+    width: 100%;
+    font: 900;
+}
+.seccad{
+    margin-left: 300px ;
+    margin-right: 100px;
+    background-color: aliceblue;
+    margin-top: 100px;
+   
+
+   
+   
+}
+.titulocad{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.nomecad{
+    width: 100%;
+    
+    margin-left: 200px;
+
+}
+.linha1cad{
+    display: flex;
+    width: 100%;
+    margin-left: 200px;
+}
+.linha2cad{
+    display: flex;
+    width: 100%;
+    margin-left: 200px;
+    
+}
+.botaocad{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+
+
+
